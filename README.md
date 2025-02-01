@@ -12,6 +12,8 @@
   * open a terminal in visual studio code 
   * type - python -m venv promptapp c:\Users\folderlocation  (promptapp is the virtual environment name)
   * promptapp\Scripts\activate - This will activate the virtual env
-- Check the promptapp.py file where it is taking user input; Ask here:
+- Check the promptapp.py file where it is taking user input; Ask here: (you can ask any question)
+
+- response in below picture.
 
 ![Alt text](image.png)
